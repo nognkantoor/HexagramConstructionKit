@@ -27,13 +27,11 @@ These code fragments
 
 The folder _ODF_ contains 2 folders:
 * spreadsheet;
-This folder contains:
-** _YiJingHexagramGenerator.ods_
-	This is a spreadsheet that generates most of the derivative trigrams and hexagrams that I am aware of;
-** Other spreadsheets may also be included. These spreadsheets are slightly different versions of each other.
-
+> This folder contains:
+> * _YiJingHexagramGenerator.ods_: This is a spreadsheet that generates most of the derivative trigrams and hexagrams that I am aware of;
+> * Other spreadsheets may also be included. These spreadsheets are slightly different versions of each other.
 * text;
-** This folder contains files in ODF format, that replicate the information in the zim_wiki.
+> * This folder contains files in ODF format, that replicate the information in the zim_wiki.
 
 The folder _Images_ contains four foldets:
 * _Hexagrams_: The 64 hexagrams as png files: size: 45 x 90 pixels;
@@ -50,53 +48,53 @@ The folder _zim_ contains four folders:
 
 The folder /zim/Appendices/ contains 7 folders:
 * Abbreviations;
-** This contains 40 files, one for each letter of the alphabet, and number. This is used for abbreviations.
+> * This contains 40 files, one for each letter of the alphabet, and number. This is used for abbreviations.
 * Bibliography;
-** This contains 53 files, one for each letter of the alphabet, and number. In addition, 10 files contain the bibliography from the old documentation.
+> * This contains 53 files, one for each letter of the alphabet, and number. In addition, 10 files contain the bibliography from the old documentation.
 * Glossary;
-** This contains 40 files, one for each letter of the alphabet, and number. This is used to define unfamiliar words and phrases.
+> * This contains 40 files, one for each letter of the alphabet, and number. This is used to define unfamiliar words and phrases.
 * Numerical_Appendix;
-** This contains 41 files. The theory is that one writes essays, and keeps them in this part of the Zim_Wiki
+> * This contains 41 files. The theory is that one writes essays, and keeps them in this part of the Zim_Wiki
 * Patents;
-** This contains one file, which is a listing of patents related to the YiJing;
+> * This contains one file, which is a listing of patents related to the YiJing;
 * Trademarks;
-** This contains one file, which is a listing of Trademarks and service marks related to the YiJing;
+> * This contains one file, which is a listing of Trademarks and service marks related to the YiJing;
 * Yi_Jing_Shoppe;
-** This contains merchandising plans with the idea that this software becomes self-supporting through sales of merchandise, hard copy documentation, and the like.
+> * This contains merchandising plans with the idea that this software becomes self-supporting through sales of merchandise, hard copy documentation, and the like.
 
 The folder /zim/Derived_Hexagrams/ contains 7 folders:
 * Human_Growth_And_Potential_Hexagrams;
-** This contains files related to the Axillary_Hexagram, Jin_Fan_Hexagram, and Feng_Shui_Hexagram derivatives;
+> * This contains files related to the Axillary_Hexagram, Jin_Fan_Hexagram, and Feng_Shui_Hexagram derivatives;
 * Major_Hexagrams;
-** This contains files about the five hexagrams I consider to be the most important in doing a YiJing Consultation;
+> * This contains files about the five hexagrams I consider to be the most important in doing a YiJing Consultation;
 * Minor_Hexagrams;
-** This contains files about the 12 hexagrams I consider to be the third most important group to use in a YiJing consultation;
+> * This contains files about the 12 hexagrams I consider to be the third most important group to use in a YiJing consultation;
 * Say_What_Hexagrams;
-** This contains notes about hexagrams that are described in more mainstream sources, that I found to be bizarre;
+>* This contains notes about hexagrams that are described in more mainstream sources, that I found to be bizarre;
 * Sequential_Hexagrams;
-** These are the hexagrams that come before or after the specific hexagram, in the various sequences of hexagrams;
+> * These are the hexagrams that come before or after the specific hexagram, in the various sequences of hexagrams;
 * You_Might_Use_Hexagrams;
-** These derivative hexagrams are based upon the derived trigrams of the major hexagrams;
+> * These derivative hexagrams are based upon the derived trigrams of the major hexagrams;
 * You_Might_Not_Use_Hexagrams;
 These derivative hexagrams are based upon the derived trigrams of the minor hexagrams;
 
 The folder /zim/Text/ contains 9 folders:
 * Bigrams;
-** The four core lines of the YiJing;
+> * The four core lines of the YiJing;
 * Derived_Trigrams;
 * Hexagrams;
-** The 64 hexagrams of the YiJing;
+> * The 64 hexagrams of the YiJing;
 * Lines;
-** The 384 lines of the YiJing;
+> * The 384 lines of the YiJing;
 * Main_Text;
 * Sequences;
-** How people have arranged the YiJing Hexagrams;
+> * How people have arranged the YiJing Hexagrams;
 * The_Wings;
-** The Ten Wings of the YiJing;
+> * The Ten Wings of the YiJing;
 * Translations;
-** Various translations of the YiJing;
+> * Various translations of the YiJing;
 * Trigrams;
-** The eight trigrams of the YiJing;
+> * The eight trigrams of the YiJing;
 
 The folder /zim/Useless_Hexagrams contains 606 folders. Each folder contains 606 files. These files are from derived hexagrams using derived trigrams of the described derivative hexagrams.
 
